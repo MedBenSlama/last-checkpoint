@@ -1,38 +1,35 @@
-# last-checkpoint
 🛠 Skills Gained
 
-During this Bootcamp, I have developed proficiency in:
+During the Bootcamp, I have developed strong skills in:
 
-Programming & Development: Python, JavaScript, Node.js, HTML/CSS
+MongoDB – Designing NoSQL databases, performing CRUD operations, and managing collections.
 
-AI & Machine Learning: Understanding ML algorithms, AI models integration, prompt engineering
+Express.js – Building scalable backend APIs and handling server-side logic.
 
-Database Management: PostgreSQL, pgVector for vectorized AI data
+React.js – Creating interactive user interfaces, managing state, and building reusable components.
 
-Web Development: Building full-stack applications with backend and frontend integration
+Node.js – Server-side programming, RESTful API development, and backend integration.
 
-Version Control: Git & GitHub workflows, collaborative development
+Full-Stack Development – Connecting frontend and backend, deploying applications, and handling client-server interactions.
 
-Problem Solving & Project Management: Breaking down complex problems, implementing scalable solutions
+Version Control – Using Git & GitHub for project management and collaboration.
 
 🎯 Career Path Readiness
 
-I feel ready to start the next step in my career because:
+I feel ready to move to the next step because:
 
-I have hands-on experience building real projects integrating AI.
+I can build complete web applications using the MERN stack.
 
-I have practiced working in collaborative environments using GitHub.
+I have hands-on experience connecting frontend and backend components.
 
-I can design, implement, and deploy applications efficiently.
+I understand database management and server-side programming.
 
-I have developed a problem-solving mindset and the ability to learn new technologies quickly.
+I am confident in creating projects that can be deployed and used by real users.
 
 💭 Thoughts & Reflections
 
-The Bootcamp helped me realize the importance of AI in modern software development.
+The Bootcamp strengthened my understanding of full-stack development and real-world application building.
 
-Working on projects enhanced my skills in full-stack development and AI integration.
+Working with React and Node.js helped me gain confidence in frontend-backend integration.
 
-I feel confident in my ability to tackle real-world problems with the technologies I learned.
-
-Next, I aim to specialize in AI-driven web applications and improve my understanding of advanced machine learning techniques.
+I am ready to take on real-world projects and continue improving my MERN stack expertise.
